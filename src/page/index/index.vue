@@ -13,10 +13,11 @@
           <span>商品分类</span>
         </div>
         <!-- 购物车 -->
-        <div class="shoppingCart">
+        <router-link to="/cart" class="shoppingCart">
           <i class="icon-shoppingcart"></i>
           <span>购物车</span>
-        </div>
+        </router-link>
+
         <!-- 个人中心 -->
         <div class="shoppingUserCenter">
           <i class="icon-usercenter"></i>
@@ -30,7 +31,7 @@
     </div>
 </template>
 
-<style scope>
+<style scoped>
   .optionsMenu{
     width:100%;
     height:auto;

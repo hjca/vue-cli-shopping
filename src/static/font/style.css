@@ -54,4 +54,5 @@
 .icon-leftarrow:before {
   content: "\e906";
   color: #9b9b9b;
+  font-size: .4rem;
 }

@@ -12,7 +12,7 @@
     </div>
 </template>
 
-<style type="text/css" scope>
+<style type="text/css" scoped>
   #swiperComp{
     width:100%;
     height: 3.4rem;

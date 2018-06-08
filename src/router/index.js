@@ -23,6 +23,11 @@ export default new Router({
       path:"/detail/:shopId",
       name:"ShoppingDetail",
       component:ShoppingDetail
+    },
+    {
+      path:"/cart",
+      name:"ShoppingCart",
+      component:ShoppingCart
     }
   ]
 })

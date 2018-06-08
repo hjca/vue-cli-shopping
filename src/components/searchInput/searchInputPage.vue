@@ -8,7 +8,7 @@
     </div>
 </template>
 
-<style type="text/css" scope>
+<style type="text/css" scoped>
   #welfareSearchInp{
     width: 100%;
     height: auto;

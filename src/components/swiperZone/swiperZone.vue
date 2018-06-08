@@ -16,7 +16,7 @@
     </div>
 </template>
 
-<style type='text/css' scope>
+<style type='text/css' scoped>
   #swiperZone{
     width:100%;
     height:auto;

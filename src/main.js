@@ -11,7 +11,11 @@ import "./static/font/style.css";
 import 'swiper/dist/css/swiper.css'
 
 import VueAwesomeSwiper from 'vue-awesome-swiper'
-Vue.use(VueAwesomeSwiper)
+Vue.use(VueAwesomeSwiper);
+
+import Mint from 'mint-ui';
+import 'mint-ui/lib/style.css'
+Vue.use(Mint);
 
 //模拟数据
 require('./util/mockData');
